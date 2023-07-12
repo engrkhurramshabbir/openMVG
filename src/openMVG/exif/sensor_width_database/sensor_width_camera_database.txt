@@ -2029,6 +2029,7 @@ Hasselblad H6D-100c;53.4
 Hasselblad H6D-50c;43.8
 Hasselblad HV;35.8
 Hasselblad L1D-20c;13.2
+Hasselblad L2D-20c;13.2
 Hasselblad Lunar;23.5
 Hasselblad Lusso;35.9
 Hasselblad Stellar II;13.2
